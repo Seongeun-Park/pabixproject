@@ -47,7 +47,7 @@ public class ListFragment extends Fragment {
                         setFrag(0);
                         list.setTextColor(Color.parseColor("#000000"));
                         make.setTextColor(Color.parseColor("#FFAAAAAA"));
-                        break;
+                        break;sdfghjkhjgfdsaadfsghjkl;jhugyftdrs
                     case R.id.make:
                         setFrag(1);
                         make.setTextColor(Color.parseColor("#000000"));
