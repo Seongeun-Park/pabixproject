@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "187908477654",
+    "firebase_url": "https://pabixreproject.firebaseio.com",
+    "project_id": "pabixreproject",
+    "storage_bucket": "pabixreproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187908477654:android:ad14a1d4347b604d",
+        "android_client_info": {
+          "package_name": "com.memo.pcw69.pabixreproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187908477654-msqigksmn5258eqcdkrsqmace7of1obf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.memo.pcw69.pabixreproject",
+            "certificate_hash": "a69644e7f53f14693daaca563c1e90e12ef508b3"
+          }
+        },
+        {
+          "client_id": "187908477654-esqm3ng7mnvhtiistueufn46orhqbrik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz4TGHHpOT4dkvFT7Bhw_ScjbzMg1BFH4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187908477654-esqm3ng7mnvhtiistueufn46orhqbrik.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
